@@ -4,9 +4,7 @@ import {
   ActivityIndicator,
   FlatList,
   RefreshControl,
-  Alert,
   View,
-  Text,
   TextInput
 } from "react-native";
 

@@ -6,7 +6,7 @@ import {
 import { connect } from "react-redux";
 import React from "react";
 
-import { Ionicons, MaterialIcons } from "@expo/vector-icons"
+import { Ionicons } from "@expo/vector-icons"
 import ProductListWithFlatList from "./ProductListWithFlatList";
 import ProductSearch from "./ProductSearch";
 
